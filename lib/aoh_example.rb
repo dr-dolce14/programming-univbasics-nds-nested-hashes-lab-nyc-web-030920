@@ -11,7 +11,8 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   infinite_jest = [
      {:name=> "Don Gately", :occupation=> "Live-in Staff"},
-     
+     {:name=> "Joelle van Dyne", :occupation=> "Radio Personality"},
+     {
 
     ]
 end
